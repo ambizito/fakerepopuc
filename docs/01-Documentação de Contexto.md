@@ -1,26 +1,30 @@
 # Introdução
 
-Na era digital em que vivemos, a tecnologia tem o poder de transformar diversos aspectos de nossas vidas cotidianas, inclusive a maneira como nos relacionamos com a culinária e a hospitalidade. Com a crescente demanda por conveniência e agilidade, surge a oportunidade de criar uma plataforma inovadora que reimagina a experiência gastronômica. É nesse contexto que apresentamos o projeto "Comandas", um aplicativo que visa a simplificação e aprimoramento do processo de visualização de cardápios e realização de pedidos em restaurantes e bares.
+Na era digital atual, a comunicação eficiente no ambiente de trabalho é mais crucial do que nunca. À medida que as equipes se tornam mais distribuídas e a colaboração remota se intensifica, surge a necessidade de ferramentas que não apenas facilitem a interação entre os membros da equipe, mas também otimizem o uso do tempo e das tarefas.
 
 ## Problema
 
-A proposta de desenvolver um aplicativo para visualização de cardápios e realização de pedidos em restaurantes e bares tem como objetivo abordar alguns dos problemas centrais enfrentados por clientes e estabelecimentos no setor de hospitalidade. Ao simplificar a experiência do cliente, o aplicativo busca resolver desafios como a demora no atendimento, a ocorrência de erros nas anotações de pedidos e a dificuldade em personalizar as solicitações. Além disso, o aplicativo aborda a lacuna de informações detalhadas nos cardápios físicos, fornecendo aos clientes descrições completas e imagens dos pratos, permitindo-lhes fazer escolhas mais informadas. Ao abordar esses problemas, o aplicativo promete transformar a maneira como os clientes interagem com a culinária e a hospitalidade, melhorando a eficiência operacional dos estabelecimentos e aprimorando a experiência geral dos clientes.
+No mundo corporativo contemporâneo, a comunicação eficaz e a delegação de tarefas constituem pilares fundamentais para o sucesso e a produtividade de equipes. Contudo, muitas organizações se deparam com desafios significativos nesses aspectos, como a sobrecarga de comunicações ineficientes, a dificuldade na distribuição clara de tarefas e a falha em manter todos os membros da equipe alinhados e informados sobre suas responsabilidades. Essas barreiras não apenas diminuem a eficiência operacional, mas também podem levar à desorganização e ao esgotamento dos colaboradores. Além disso, a ausência de uma plataforma centralizada para a gestão de lembretes e avisos contribui para o aumento da desorganização, pois as informações importantes podem se perder em meio a uma enxurrada de e-mails e mensagens instantâneas. 
 
 ## Objetivos
 
-A nossa proposta de desenvolver um aplicativo dedicado à visualização de cardápios e à realização de pedidos em restaurantes e bares surge com o intuito de confrontar e solucionar os principais desafios que tanto os clientes quanto os estabelecimentos enfrentam no âmbito da hospitalidade. Com a simplificação da jornada do cliente em mente, o nosso aplicativo visa abordar questões essenciais, tais como o tempo excessivo de espera no atendimento, a propensão a erros na tomada de pedidos e a dificuldade associada à personalização das solicitações.
+O E-note surge como uma solução inovadora para esses problemas, oferecendo um espaço virtual dedicado exclusivamente à otimização da comunicação interna, à delegação de tarefas e ao gerenciamento eficiente de lembretes, assegurando que cada membro da equipe esteja sempre informado e focado em suas responsabilidades. Visando aprimorar a eficiência e a clareza na delegação de responsabilidades. Entre os objetivos específicos do aplicativo, destacam-se:
 
-Como objetivos específicos, podemos salientar:
+● Facilitar a Comunicação Interna: Proporcionar um canal direto e eficiente para a troca de mensagens e lembretes entre os colaboradores, eliminando barreiras comunicacionais e garantindo que a informação chegue ao destinatário de maneira clara e objetiva.
 
-● Minimizar Erros nos Pedidos: Com a seleção direta de itens do cardápio, o aplicativo pretende minimizar erros de comunicação entre os clientes e a equipe do estabelecimento, garantindo que os pedidos sejam precisos.
+● Otimizar a Delegação de Tarefas: Permitir uma distribuição de tarefas mais organizada e transparente, onde os responsáveis pelas atividades podem ser claramente identificados
 
-● Otimizar Operações para Estabelecimentos: Ao automatizar o processo de pedidos, você almeja otimizar as operações dos estabelecimentos, reduzindo o tempo gasto em anotações e melhorando a eficiência do serviço.
+● Melhorar a Gestão de Lembretes: Oferecer uma plataforma onde os lembretes possam ser criados, gerenciados e visualizados de forma centralizada, garantindo que todos os membros da equipe estejam cientes de seus prazos e responsabilidades.
+
+● Aumentar a Produtividade e Agilidade: Ao reduzir a confusão e o tempo gasto na procura de informações ou na clarificação de tarefas, o E-note busca aumentar a produtividade individual e coletiva.
+
+Com esses objetivos, o E-note se posiciona como uma ferramenta essencial para empresas que buscam superar os desafios da comunicação interna e da gestão de tarefas, contribuindo para a construção de uma cultura de trabalho mais eficiente, organizada e integrada.
 
 
 ## Justificativa
 
-A criação deste aplicativo representa uma resposta coerente e estratégica às necessidades emergentes de clientes e estabelecimentos, oferecendo uma solução abrangente para os desafios presentes no cenário atual de restaurantes e bares. Ao proporcionar agilidade, personalização e informações detalhadas, a proposta busca transformar a experiência gastronômica e otimizar as operações no setor de hospitalidade.
+A concepção do E-note é uma resposta direta e bem fundamentada às exigências contemporâneas do ambiente de trabalho, refletindo uma compreensão profunda das complexidades e desafios enfrentados pelas organizações no que tange à comunicação interna e à gestão de tarefas. Em um contexto onde a eficácia na comunicação e na delegação de responsabilidades se torna cada vez mais vital para o sucesso organizacional, o E-note emerge como uma ferramenta essencial. Ao oferecer uma plataforma dedicada à troca eficiente de mensagens e ao gerenciamento de lembretes, este aplicativo não apenas visa aprimorar a interação entre os membros da equipe, mas também a otimizar os processos internos, promovendo um ambiente de trabalho mais organizado e produtivo. A justificativa para o desenvolvimento do E-note reside, portanto, na sua capacidade de atender a estas necessidades emergentes, proporcionando uma solução inovadora que facilita a comunicação, melhora a gestão de tarefas e aumenta a eficiência operacional das equipes, transformando fundamentalmente a dinâmica de trabalho 
 
 ## Público-Alvo
 
-O público-alvo do projeto abrange tanto clientes frequentadores de restaurantes e bares quanto os próprios estabelecimentos gastronômicos. 
+O público-alvo do E-note é abrangente e diversificado, incluindo tanto equipes de trabalho em pequenas e médias empresas quanto em grandes corporações, abarcando diversos setores da economia. Isso inclui gestores que necessitam delegar tarefas de forma eficaz, equipes que colaboram em projetos compartilhados e precisam manter todos os membros alinhados
