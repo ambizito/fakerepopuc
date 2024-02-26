@@ -1,14 +1,13 @@
-# Comandas 
- <img width=150px heigth=150px src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t2-g3-comandas/assets/13721147/ee0b596b-c6fc-4145-abc9-b90293377a6c">
+# E-Notes
 
 `Analise e Desenvolvimento de Sistemas`
 
 
 `Projeto: Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio`
 
-`Eixo 3 - 2023/2`
+`Eixo 4 - 2024/1`
 
-Aplicativo que visa simplificar e aprimorar experiência em estabelecimentos alimentícios, oferecendo como principal função a possibilidade de cardápio virtual e gerenciamento de espaço via dispositivo móvel. 
+Aplicativo que visa aprimorar experiência na comunicação entre funcionarios, criando um espaço virtual oferecendo como principal função a possibilidade enviar "mensagens"/"lembrentes" e gerenciamento de espaço virtual.
 
 Resolvendo problemas como demora no atendimento, erros em cardápios físicos, equívocos em pedidos e dificuldade organização interna, o aplicativo oferece sugestões geográficas de estabelecimento baseado na localização do usuário, cardápios através escaneamento de QR-codes, gerenciamento de espaço dos estabelecimentos baseado em pedidos ativos e muito mais.
 
@@ -23,7 +22,7 @@ Resolvendo problemas como demora no atendimento, erros em cardápios físicos, e
 
 ## Orientador
 
-* Mateus Curcino de Lima
+* Pedro Alves de Oliveira
   
 ## Instruções de utilização
 
