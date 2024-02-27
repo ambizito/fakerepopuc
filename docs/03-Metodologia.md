@@ -9,8 +9,8 @@ A documentação do Projeto em formatação ABNT será desenvolvida e disponibil
 |              Ambiente              |  Plataforma  |                                    Link de Acesso                                    |
 |:----------------------------------:|:------------:|:------------------------------------------------------------------------------------:|
 |     Repositório de código fonte    |    GitHub    | https://github.com/creinis/pmv-ads-2023-2-e3-proj-mov-t2-g3-comandas/tree/main      |
-|        Documentos do projeto       | Google Drive |  |
-| Projeto de Interface e  Wireframes |   MarvelApp  |  https://marvelapp.com/                              |
+|        Documentos do projeto       | |  |
+| Projeto de Interface e  Wireframes |   Figma  |  https://www.figma.com/                              |
 | Diagramas			     | Diagrams.net |  https://www.diagrams.net/                             |
 |      Gerenciamento do Projeto      |    Trello    | [https://trello.com/b/79Q3om0J/gest%C3%A3o-projeto-vagas](https://trello.com/b/IAWJMwHt/kanban-quadro-modelo)    |
 |      Gerenciamento e Comunicação   |    WhatsApp    | https://chat.whatsapp.com/F10LE4hwG8DE7CPlMCEx4X   |
@@ -101,11 +101,11 @@ A plataforma Trello foi escolhida como centro de gerenciamento de tarefas estand
 	Lista dedicada a tarefas relativas aos códigos fonte do projeto que devem ser testados por outros membros da equipe a fim de garantir a qualidade do software e atendendo às especificações da metodologia adotada. 
 
 O ambiente de gerenciamento de tarefas Trello deste Projeto pode ser acessado em: 
-[https://trello.com/b/79Q3om0J/gest%C3%A3o-projeto-vagas](https://trello.com/b/IAWJMwHt/kanban-quadro-modelo)
+[Trello](https://trello.com/b/IAWJMwHt/kanban-quadro-modelo)
 
 A Figura abaixo ilustra o gerenciador de tarefas criado: 
  
- ![Foto representativa](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t2-g3-comandas/blob/83b50efb347a83776b0048115b12ad5ed3c7e58a/docs/img/03_Metodologia_Trello_02.png)
+ ![Foto representativa]() LINK VAZIO
  
 
 ### Ferramentas
@@ -115,7 +115,7 @@ As ferramentas empregadas no projeto são:
 - Visual Studio Code;
 - Microsoft Teams;
 - Canvas PUC;
-- Marvel;
+- Figma;
 - GitHub;
 - Git;
 - Diagrams;
@@ -126,7 +126,7 @@ Descritivos:
 
 - Editor de código: **Visual Studio Code**
 - Ferramentas de comunicação: **Microsoft Teams**
-- Ferramentas de desenho de tela (wireframing e diagramas): **Marvel & Diagrams**
+- Ferramentas de desenho de tela (wireframing e diagramas): **Figma & Diagrams**
 - Ferramenta de Controle de Versões e Repositório: **Git & GitHub**
 - Ferramentas de Gerenciamento de Tarefas: **Trello & Notion**
 
